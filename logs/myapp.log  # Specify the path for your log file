@@ -1,0 +1,264 @@
+0    [main] INFO  gurubank_v1  - URL is opened
+1524 [main] INFO  gurubank_v1  - enterUSN
+1783 [main] INFO  gurubank_v1  - passwor entered
+21018 [main] INFO  gurubank_v1  - login passed
+2023-11-28 13:56:34,849 [main] INFO  gurubank_v1: URL is opened
+2023-11-28 13:56:39,330 [main] INFO  gurubank_v1: enterUSN
+2023-11-28 13:56:39,568 [main] INFO  gurubank_v1: passwor entered
+2023-11-28 13:56:43,239 [main] INFO  gurubank_v1: login passed
+2023-11-28 15:59:48,428 [main] INFO  gurubank_v1: URL is opened
+2023-11-28 15:59:50,023 [main] INFO  gurubank_v1: enterUSN
+2023-11-28 15:59:50,161 [main] INFO  gurubank_v1: passwor entered
+2023-11-28 16:00:05,964 [main] INFO  gurubank_v1: login passed
+2023-11-28 17:25:30,843 [main] INFO  gurubank_v1: URL is opened
+2023-11-28 17:25:39,905 [main] INFO  gurubank_v1: enterUSN
+2023-11-28 17:25:40,280 [main] INFO  gurubank_v1: passwor entered
+2023-11-28 17:25:50,034 [main] INFO  gurubank_v1: login passed
+2023-11-28 17:29:22,643 [main] INFO  gurubank_v1: URL is opened
+2023-11-28 17:29:25,991 [main] INFO  gurubank_v1: enterUSN
+2023-11-28 17:29:26,179 [main] INFO  gurubank_v1: passwor entered
+2023-11-28 17:32:04,923 [main] INFO  gurubank_v1: URL is opened
+2023-11-28 17:34:29,343 [main] INFO  gurubank_v1: URL is opened
+2023-11-28 17:34:39,511 [main] INFO  gurubank_v1: enterUSN
+2023-11-28 17:34:40,305 [main] INFO  gurubank_v1: passwor entered
+2023-11-28 17:52:35,264 [main] INFO  gurubank_v1: URL is opened
+2023-11-28 17:52:38,909 [main] INFO  gurubank_v1: enterUSN
+2023-11-28 17:52:40,409 [main] INFO  gurubank_v1: passwor entered
+2023-11-28 17:52:51,036 [main] INFO  gurubank_v1: login passed
+2023-11-29 18:35:43,125 [main] INFO  gurubank_v1: URL is opened
+2023-11-29 18:37:05,030 [main] INFO  gurubank_v1: enterUSN
+2023-11-29 18:37:06,122 [main] INFO  gurubank_v1: passwor entered
+2023-11-29 18:37:39,320 [main] INFO  gurubank_v1: login passed
+2023-11-29 20:39:48,799 [main] INFO  gurubank_v1: URL is opened
+2023-11-29 20:39:51,929 [main] INFO  gurubank_v1: enterUSN
+2023-11-29 20:39:52,307 [main] INFO  gurubank_v1: passwor entered
+2023-11-29 20:39:58,280 [main] INFO  gurubank_v1: login passed
+2023-11-29 20:49:50,177 [main] INFO  gurubank_v1: URL is opened
+2023-11-29 20:50:03,071 [main] INFO  gurubank_v1: enterUSN
+2023-11-29 20:50:06,812 [main] INFO  gurubank_v1: passwor entered
+2023-11-29 20:50:18,997 [main] INFO  gurubank_v1: login passed
+2023-11-30 10:52:31,217 [main] INFO  gurubank_v1: URL is opened
+2023-11-30 10:52:49,629 [main] INFO  gurubank_v1: enterUSN
+2023-11-30 10:52:51,636 [main] INFO  gurubank_v1: passwor entered
+2023-11-30 10:53:11,335 [main] INFO  gurubank_v1: login passed
+2023-11-30 12:39:47,322 [main] INFO  gurubank_v1: URL is opened
+2023-11-30 12:39:50,602 [main] INFO  gurubank_v1: enterUSN
+2023-11-30 12:39:51,503 [main] INFO  gurubank_v1: passwor entered
+2023-11-30 12:40:03,741 [main] INFO  gurubank_v1: login passed
+2023-11-30 12:50:21,984 [main] INFO  gurubank_v1: URL is opened
+2023-11-30 12:50:26,610 [main] INFO  gurubank_v1: enterUSN
+2023-11-30 12:50:28,858 [main] INFO  gurubank_v1: passwor entered
+2023-11-30 21:25:23,129 [main] INFO  gurubank_v1: user name is provided
+2023-11-30 21:25:27,359 [main] INFO  gurubank_v1: password is provided
+2023-11-30 21:25:32,520 [main] INFO  gurubank_v1: loggin passed
+2023-11-30 21:25:41,738 [main] INFO  gurubank_v1: logged out
+2023-11-30 21:25:44,602 [main] INFO  gurubank_v1: user name is provided
+2023-11-30 21:25:44,771 [main] INFO  gurubank_v1: password is provided
+2023-11-30 21:25:48,849 [main] INFO  gurubank_v1: loggin passed
+2023-11-30 21:25:50,750 [main] INFO  gurubank_v1: logged out
+2023-11-30 21:25:55,646 [main] INFO  gurubank_v1: user name is provided
+2023-11-30 21:25:55,820 [main] INFO  gurubank_v1: password is provided
+2023-11-30 21:26:04,103 [main] INFO  gurubank_v1: user name is provided
+2023-11-30 21:26:04,231 [main] INFO  gurubank_v1: password is provided
+2023-11-30 21:26:08,382 [main] INFO  gurubank_v1: user name is provided
+2023-11-30 21:26:08,508 [main] INFO  gurubank_v1: password is provided
+2023-11-30 21:26:14,096 [main] INFO  gurubank_v1: loggin passed
+2023-11-30 21:26:16,371 [main] INFO  gurubank_v1: logged out
+2023-11-30 21:30:46,979 [main] INFO  gurubank_v1: URL is opened
+2023-11-30 21:31:16,407 [main] INFO  gurubank_v1: enterUSN
+2023-11-30 21:31:17,650 [main] INFO  gurubank_v1: passwor entered
+2023-11-30 21:32:40,292 [main] INFO  gurubank_v1: user name is provided
+2023-11-30 21:32:40,506 [main] INFO  gurubank_v1: password is provided
+2023-11-30 21:32:54,689 [main] INFO  gurubank_v1: loggin passed
+2023-11-30 21:32:56,771 [main] INFO  gurubank_v1: logged out
+2023-11-30 21:33:00,041 [main] INFO  gurubank_v1: user name is provided
+2023-11-30 21:33:00,209 [main] INFO  gurubank_v1: password is provided
+2023-11-30 21:33:05,160 [main] INFO  gurubank_v1: loggin passed
+2023-11-30 21:33:06,318 [main] INFO  gurubank_v1: logged out
+2023-11-30 21:33:09,517 [main] INFO  gurubank_v1: user name is provided
+2023-11-30 21:33:09,652 [main] INFO  gurubank_v1: password is provided
+2023-11-30 21:33:15,160 [main] INFO  gurubank_v1: user name is provided
+2023-11-30 21:33:15,324 [main] INFO  gurubank_v1: password is provided
+2023-11-30 21:33:18,781 [main] INFO  gurubank_v1: user name is provided
+2023-11-30 21:33:19,526 [main] INFO  gurubank_v1: password is provided
+2023-11-30 21:33:21,558 [main] INFO  gurubank_v1: loggin passed
+2023-11-30 21:33:22,569 [main] INFO  gurubank_v1: logged out
+2023-11-30 21:38:04,811 [main] INFO  gurubank_v1: URL is opened
+2023-11-30 21:38:05,123 [main] INFO  gurubank_v1: enterUSN
+2023-11-30 21:38:05,286 [main] INFO  gurubank_v1: passwor entered
+2023-11-30 21:39:44,577 [main] INFO  gurubank_v1: user name is provided
+2023-11-30 21:39:44,761 [main] INFO  gurubank_v1: password is provided
+2023-11-30 21:39:49,080 [main] INFO  gurubank_v1: loggin passed
+2023-11-30 21:39:51,298 [main] INFO  gurubank_v1: logged out
+2023-11-30 21:39:53,823 [main] INFO  gurubank_v1: user name is provided
+2023-11-30 21:39:53,967 [main] INFO  gurubank_v1: password is provided
+2023-11-30 21:39:56,031 [main] INFO  gurubank_v1: loggin passed
+2023-11-30 21:39:56,964 [main] INFO  gurubank_v1: logged out
+2023-11-30 21:40:00,414 [main] INFO  gurubank_v1: user name is provided
+2023-11-30 21:40:00,571 [main] INFO  gurubank_v1: password is provided
+2023-11-30 21:40:05,316 [main] INFO  gurubank_v1: user name is provided
+2023-11-30 21:40:05,656 [main] INFO  gurubank_v1: password is provided
+2023-11-30 21:40:12,248 [main] INFO  gurubank_v1: user name is provided
+2023-11-30 21:40:12,717 [main] INFO  gurubank_v1: password is provided
+2023-11-30 21:40:16,246 [main] INFO  gurubank_v1: loggin passed
+2023-11-30 21:40:18,503 [main] INFO  gurubank_v1: logged out
+2023-12-01 15:33:31,805 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-01 15:37:29,490 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-01 15:37:38,098 [main] INFO  gurubank_v1: custmr name entered
+2023-12-01 15:37:44,664 [main] INFO  gurubank_v1: custmr dob entered
+2023-12-01 15:37:58,121 [main] INFO  gurubank_v1: all data submitted
+2023-12-01 15:48:45,924 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-01 15:53:26,204 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-01 16:07:20,830 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-01 16:07:21,617 [main] INFO  gurubank_v1: failed
+2023-12-01 16:10:22,011 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-01 16:10:22,367 [main] INFO  gurubank_v1: failed
+2023-12-02 11:32:08,555 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 11:38:16,481 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 11:38:17,219 [main] INFO  gurubank_v1: failed
+2023-12-02 11:43:38,848 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 12:28:50,341 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 12:28:50,402 [main] INFO  gurubank_v1: failed
+2023-12-02 12:28:59,637 [main] INFO  gurubank_v1: add found refresh
+2023-12-02 12:33:15,359 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 12:33:15,409 [main] INFO  gurubank_v1: failed
+2023-12-02 12:33:21,604 [main] INFO  gurubank_v1: add found refresh
+2023-12-02 12:33:39,493 [main] INFO  gurubank_v1: custmr name entered
+2023-12-02 12:33:41,923 [main] INFO  gurubank_v1: custmr dob entered
+2023-12-02 12:33:51,667 [main] INFO  gurubank_v1: all data submitted
+2023-12-02 12:35:31,608 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 12:35:31,639 [main] INFO  gurubank_v1: failed
+2023-12-02 12:35:34,963 [main] INFO  gurubank_v1: add found refresh
+2023-12-02 12:35:48,271 [main] INFO  gurubank_v1: custmr name entered
+2023-12-02 12:35:50,714 [main] INFO  gurubank_v1: custmr dob entered
+2023-12-02 12:35:59,864 [main] INFO  gurubank_v1: all data submitted
+2023-12-02 12:41:47,182 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 12:41:47,537 [main] INFO  gurubank_v1: failed
+2023-12-02 12:41:50,103 [main] INFO  gurubank_v1: add found refresh
+2023-12-02 12:42:00,988 [main] INFO  gurubank_v1: custmr name entered
+2023-12-02 12:42:03,464 [main] INFO  gurubank_v1: custmr dob entered
+2023-12-02 12:42:13,514 [main] INFO  gurubank_v1: all data submitted
+2023-12-02 12:59:12,459 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 12:59:12,571 [main] INFO  gurubank_v1: failed
+2023-12-02 12:59:19,470 [main] INFO  gurubank_v1: add found refresh
+2023-12-02 12:59:30,941 [main] INFO  gurubank_v1: custmr name entered
+2023-12-02 12:59:33,411 [main] INFO  gurubank_v1: custmr dob entered
+2023-12-02 12:59:43,044 [main] INFO  gurubank_v1: all data submitted
+2023-12-02 13:51:54,226 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 13:51:54,546 [main] INFO  gurubank_v1: failed
+2023-12-02 13:51:58,750 [main] INFO  gurubank_v1: add found refresh
+2023-12-02 13:52:21,467 [main] INFO  gurubank_v1: custmr name entered
+2023-12-02 13:52:24,131 [main] INFO  gurubank_v1: custmr dob entered
+2023-12-02 13:59:21,544 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 13:59:21,758 [main] INFO  gurubank_v1: failed
+2023-12-02 13:59:30,036 [main] INFO  gurubank_v1: add found refresh
+2023-12-02 13:59:38,640 [main] INFO  gurubank_v1: custmr name entered
+2023-12-02 13:59:41,084 [main] INFO  gurubank_v1: custmr dob entered
+2023-12-02 13:59:52,683 [main] INFO  gurubank_v1: all data submitted
+2023-12-02 14:20:52,277 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 14:20:52,721 [main] INFO  gurubank_v1: failed
+2023-12-02 14:20:59,254 [main] INFO  gurubank_v1: add found refresh
+2023-12-02 14:21:20,263 [main] INFO  gurubank_v1: custmr name entered
+2023-12-02 14:21:23,024 [main] INFO  gurubank_v1: custmr dob entered
+2023-12-02 14:21:38,726 [main] INFO  gurubank_v1: all data submitted
+2023-12-02 14:26:57,372 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 14:26:57,586 [main] INFO  gurubank_v1: failed
+2023-12-02 14:27:00,108 [main] INFO  gurubank_v1: add found refresh
+2023-12-02 14:27:09,086 [main] INFO  gurubank_v1: custmr name entered
+2023-12-02 14:27:11,831 [main] INFO  gurubank_v1: custmr dob entered
+2023-12-02 14:27:24,318 [main] INFO  gurubank_v1: all data submitted
+2023-12-02 14:29:47,329 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 14:29:47,650 [main] INFO  gurubank_v1: failed
+2023-12-02 14:29:50,101 [main] INFO  gurubank_v1: add found refresh
+2023-12-02 14:30:44,584 [main] INFO  gurubank_v1: custmr name entered
+2023-12-02 14:30:47,111 [main] INFO  gurubank_v1: custmr dob entered
+2023-12-02 14:30:59,182 [main] INFO  gurubank_v1: all data submitted
+2023-12-02 14:33:45,014 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 14:33:45,551 [main] INFO  gurubank_v1: failed
+2023-12-02 14:33:52,977 [main] INFO  gurubank_v1: add found refresh
+2023-12-02 14:34:03,276 [main] INFO  gurubank_v1: custmr name entered
+2023-12-02 14:34:05,713 [main] INFO  gurubank_v1: custmr dob entered
+2023-12-02 14:34:18,694 [main] INFO  gurubank_v1: all data submitted
+2023-12-02 14:35:57,147 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 14:35:57,554 [main] INFO  gurubank_v1: failed
+2023-12-02 14:36:00,506 [main] INFO  gurubank_v1: add found refresh
+2023-12-02 14:36:12,069 [main] INFO  gurubank_v1: custmr name entered
+2023-12-02 14:36:14,533 [main] INFO  gurubank_v1: custmr dob entered
+2023-12-02 14:36:28,232 [main] INFO  gurubank_v1: all data submitted
+2023-12-02 14:45:53,755 [main] INFO  gurubank_v1: URL is opened
+2023-12-02 14:45:54,892 [main] INFO  gurubank_v1: enterUSN
+2023-12-02 14:45:55,085 [main] INFO  gurubank_v1: passwor entered
+2023-12-02 14:46:31,470 [main] INFO  gurubank_v1: user name is provided
+2023-12-02 14:46:31,612 [main] INFO  gurubank_v1: password is provided
+2023-12-02 14:46:39,248 [main] INFO  gurubank_v1: loggin passed
+2023-12-02 14:46:42,628 [main] INFO  gurubank_v1: logged out
+2023-12-02 14:46:46,085 [main] INFO  gurubank_v1: user name is provided
+2023-12-02 14:46:46,276 [main] INFO  gurubank_v1: password is provided
+2023-12-02 14:46:49,406 [main] INFO  gurubank_v1: loggin passed
+2023-12-02 14:46:51,403 [main] INFO  gurubank_v1: logged out
+2023-12-02 14:46:55,258 [main] INFO  gurubank_v1: user name is provided
+2023-12-02 14:46:55,405 [main] INFO  gurubank_v1: password is provided
+2023-12-02 14:46:59,876 [main] INFO  gurubank_v1: user name is provided
+2023-12-02 14:47:00,024 [main] INFO  gurubank_v1: password is provided
+2023-12-02 14:47:13,067 [main] INFO  gurubank_v1: user name is provided
+2023-12-02 14:47:14,644 [main] INFO  gurubank_v1: password is provided
+2023-12-02 14:47:19,630 [main] INFO  gurubank_v1: loggin passed
+2023-12-02 14:47:22,272 [main] INFO  gurubank_v1: logged out
+2023-12-02 14:48:01,684 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 14:48:01,772 [main] INFO  gurubank_v1: failed
+2023-12-02 14:48:03,892 [main] INFO  gurubank_v1: add found refresh
+2023-12-02 14:48:14,542 [main] INFO  gurubank_v1: custmr name entered
+2023-12-02 14:48:16,947 [main] INFO  gurubank_v1: custmr dob entered
+2023-12-02 14:48:29,747 [main] INFO  gurubank_v1: all data submitted
+2023-12-02 14:51:19,968 [main] INFO  gurubank_v1: URL is opened
+2023-12-02 14:51:20,253 [main] INFO  gurubank_v1: enterUSN
+2023-12-02 14:51:20,404 [main] INFO  gurubank_v1: passwor entered
+2023-12-02 14:51:37,912 [main] INFO  gurubank_v1: login passed
+2023-12-02 14:52:12,389 [main] INFO  gurubank_v1: user name is provided
+2023-12-02 14:52:12,625 [main] INFO  gurubank_v1: password is provided
+2023-12-02 14:52:16,670 [main] INFO  gurubank_v1: loggin passed
+2023-12-02 14:52:22,427 [main] INFO  gurubank_v1: logged out
+2023-12-02 14:52:27,746 [main] INFO  gurubank_v1: user name is provided
+2023-12-02 14:52:27,892 [main] INFO  gurubank_v1: password is provided
+2023-12-02 14:52:31,974 [main] INFO  gurubank_v1: loggin passed
+2023-12-02 14:52:33,288 [main] INFO  gurubank_v1: logged out
+2023-12-02 14:52:41,714 [main] INFO  gurubank_v1: user name is provided
+2023-12-02 14:52:41,865 [main] INFO  gurubank_v1: password is provided
+2023-12-02 14:53:53,460 [main] INFO  gurubank_v1: user name is provided
+2023-12-02 14:53:53,619 [main] INFO  gurubank_v1: password is provided
+2023-12-02 14:54:00,732 [main] INFO  gurubank_v1: user name is provided
+2023-12-02 14:54:00,870 [main] INFO  gurubank_v1: password is provided
+2023-12-02 14:54:03,593 [main] INFO  gurubank_v1: loggin passed
+2023-12-02 14:54:04,640 [main] INFO  gurubank_v1: logged out
+2023-12-02 14:55:00,235 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 14:55:00,318 [main] INFO  gurubank_v1: failed
+2023-12-02 14:55:03,322 [main] INFO  gurubank_v1: add found refresh
+2023-12-02 14:55:12,716 [main] INFO  gurubank_v1: custmr name entered
+2023-12-02 14:55:15,551 [main] INFO  gurubank_v1: custmr dob entered
+2023-12-02 14:55:29,797 [main] INFO  gurubank_v1: all data submitted
+2023-12-02 16:04:58,898 [main] INFO  gurubank_v1: URL is opened
+2023-12-02 16:05:03,044 [main] INFO  gurubank_v1: enterUSN
+2023-12-02 16:05:03,272 [main] INFO  gurubank_v1: passwor entered
+2023-12-02 16:05:17,453 [main] INFO  gurubank_v1: login passed
+2023-12-02 16:08:03,625 [main] INFO  gurubank_v1: user name is provided
+2023-12-02 16:08:03,881 [main] INFO  gurubank_v1: password is provided
+2023-12-02 16:09:49,830 [main] INFO  gurubank_v1: loggin passed
+2023-12-02 16:10:15,825 [main] INFO  gurubank_v1: logged out
+2023-12-02 16:10:32,816 [main] INFO  gurubank_v1: user name is provided
+2023-12-02 16:10:33,052 [main] INFO  gurubank_v1: password is provided
+2023-12-02 16:11:04,681 [main] INFO  gurubank_v1: loggin passed
+2023-12-02 16:11:07,610 [main] INFO  gurubank_v1: logged out
+2023-12-02 16:11:19,672 [main] INFO  gurubank_v1: user name is provided
+2023-12-02 16:11:19,862 [main] INFO  gurubank_v1: password is provided
+2023-12-02 16:11:50,740 [main] INFO  gurubank_v1: user name is provided
+2023-12-02 16:11:50,896 [main] INFO  gurubank_v1: password is provided
+2023-12-02 16:12:01,247 [main] INFO  gurubank_v1: user name is provided
+2023-12-02 16:12:01,409 [main] INFO  gurubank_v1: password is provided
+2023-12-02 16:13:00,327 [main] INFO  gurubank_v1: loggin passed
+2023-12-02 16:13:05,635 [main] INFO  gurubank_v1: logged out
+2023-12-02 16:14:33,057 [main] INFO  gurubank_v1: addcustmr clicked
+2023-12-02 16:14:33,088 [main] INFO  gurubank_v1: failed
+2023-12-02 16:14:43,403 [main] INFO  gurubank_v1: add found refresh
+2023-12-02 16:14:56,057 [main] INFO  gurubank_v1: custmr name entered
+2023-12-02 16:14:58,558 [main] INFO  gurubank_v1: custmr dob entered
+2023-12-02 16:15:17,721 [main] INFO  gurubank_v1: all data submitted
