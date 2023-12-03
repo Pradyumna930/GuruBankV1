@@ -83,5 +83,12 @@ public class BaseClass  {
 		String nmber=RandomStringUtils.randomNumeric(10);
 		return (nmber);
 	}
+	
+	public String randomPNumber()
+	{
+		
+		String pin=RandomStringUtils.randomNumeric(6);
+		return (pin);
+	}
 
 }

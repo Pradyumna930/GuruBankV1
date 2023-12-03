@@ -7,13 +7,12 @@
   <test thread-count="5" name="BankingApp Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.guruBanking.testcases.TC_LogingDDT_002">
+      <class name="com.guruBanking.testcases.TC_EditCustomer_004">
         <methods>
           <include name="setup"/>
-          <include name="loginDDT" invocation-numbers="2 3"/>
-          <include name="teardown"/>
+          <include name="editCustomer"/>
         </methods>
-      </class> <!-- com.guruBanking.testcases.TC_LogingDDT_002 -->
+      </class> <!-- com.guruBanking.testcases.TC_EditCustomer_004 -->
     </classes>
   </test> <!-- BankingApp Test(failed) -->
 </suite> <!-- Failed suite [GuruBankV1] -->
